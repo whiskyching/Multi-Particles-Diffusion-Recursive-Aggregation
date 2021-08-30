@@ -4,7 +4,7 @@ Computing two 3D patterns via two different recursive aggregation methods. One i
 - Python
 - Rhino3D
 - Grasshopper 3D
-- 
+- Cura 3D Print Slicer
 
 
 
