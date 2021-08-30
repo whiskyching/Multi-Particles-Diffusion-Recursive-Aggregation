@@ -1,11 +1,13 @@
 # Recursive-Aggregation
 Computing two 3D patterns via two different recursive aggregation methods. One is with the volume-wise element as a fundamental element; one is starting from point and line. By defining specific element behavior, the algorithm can achieve various complex 3D geometry with single fundamental element.
 
+
 ## Software Tool: 
 - Python
 - Rhino3D
 - Grasshopper 3D
 - Cura 3D Print Slicer
+
 
 
 
